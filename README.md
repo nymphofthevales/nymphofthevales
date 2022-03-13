@@ -6,7 +6,7 @@ I'm really passionate about game development, and am currently working on <a hre
 
 I mostly work in Javascript, but have recently picked up Python and Typescript, and I'm always looking for new things to add to my repertoire!
 
-Besides programming, I'm also an artist and writer, and I do all my own artwork and writing for my projects. Some of my short stories are available to read on my <a href="https://www.nymphofthevales.com">website</a> and I'll have some artwork up there soon too if you're into that sort of thing.
+Besides programming, I'm also an artist and writer, and I do all my own artwork and writing for my projects. Some of my short stories are available to read on my <a href="https://nymphofthevales.com">website</a> and I'll have some artwork up there soon too if you're into that sort of thing.
 
 If you wanna get in touch about anything at all, feel free to shoot me an email at nymphofthevales@gmail.com!
 
