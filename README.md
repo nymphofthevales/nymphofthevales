@@ -4,7 +4,7 @@ I'm a trans gal from Calgary, Alberta (she/her). I'm currently studying computer
 
 I'm really passionate about game development, and am currently working on <a href="">Keeper of the Labyrinth</a>, a text-based narrative game which I'll publish on Steam as soon as it's done(!!). After that, I've got plans for a few other games/branching path stories/weird interactive experiences that I'm hoping to put together in the next couple years.
 
-I mostly work in Typescript/Javascript, but am also proficient in Python, and I'm always looking for new things to add to my repertoire! I'm hoping to get into Unity next...
+I'm most experienced with Typescript and web technologies, particularly using the Electron framework. I am also capable with Python and C# for Unity scripting.
 
 Besides programming, I'm also an artist and writer. Some of my short stories, essays, and artwork are available to see on my <a href="https://nymphofthevales.com">personal website</a>.
 
